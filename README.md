@@ -10,3 +10,6 @@ My course notes for learning in MIT OpenCourseWare and Kaggle
 ## Kaggle
 
 1. https://www.kaggle.com/c/cat-in-the-dat/overview/evaluation
+
+## Books 
+1. https://courses.csail.mit.edu/6.034f/ai3/rest.pdf
