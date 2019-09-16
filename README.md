@@ -1,5 +1,5 @@
-# artifial-intelligence
-My course notes for learning in MIT OpenCourseWare and Kaggle
+# ai-and-ml
+Repo to learn ai and ml. Let's do it.
 
 ## MIT OpenCourseware
 
